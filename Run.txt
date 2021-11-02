@@ -1,0 +1,3 @@
+Visual Studio Code da terminale önce “npx json-server --watch src/api/db.json --port 3002” 
+yazarak verilerimin 3002 portunda ayağa kaldırıyorum. Daha sonra başka bir terminalde 
+“npm start” dediğimde verilerimle beraber projem çalışıyor.
